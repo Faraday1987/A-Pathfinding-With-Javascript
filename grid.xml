@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes>
+    <node id="n1" x="25" y="25" join="n2,n3"/>
+    <node id="n2" x="110" y="110" join="n1,n3,n4"/>
+    <node id="n3" x="50" y="180" join="n1,n2,n5,n6"/>
+    <node id="n4" x="225" y="90" join="n2,n5,n6"/>
+    <node id="n5" x="190" y="160" join="n3,n4"/>
+    <node id="n6" x="230" y="170" join="n3,n4"/>
+</nodes>
+
+
