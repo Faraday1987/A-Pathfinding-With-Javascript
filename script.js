@@ -28,7 +28,8 @@ button.addEventListener('click', (e) => {
     let grid = new Grid();
     grid.parseJSON(JSON.stringify(jsonData));
     // find a path between two node Id's
-    // console.log(grid.findPath("n1", "n5"));
+    console.log(grid.findPath("n1", "n5"));
+    console.log(JSON.stringify(grid.findPath("n1", "n6")));
     // drawImageSample(grid.findPath("n1", "n5"));
     const findPath = grid.findPath(String(idFrom.value,), String(idDestination.value));
     drawImageSample(findPath);
