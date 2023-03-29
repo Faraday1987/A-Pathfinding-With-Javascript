@@ -1,5 +1,4 @@
-*.vscode
-*.firrebase
-.firrebaserc
-*.
+*.firebase
+*.firebaserc
+*firebase.json
 !/.gitignore
