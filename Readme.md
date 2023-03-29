@@ -48,11 +48,5 @@
     </span>}
   </span>}
 </code></pre>
-<h3 class="code-line" data-line-start=55 data-line-end=56 ><a id="SAMPLES_55"></a>SAMPLES</h3>
-<p class="has-line-data" data-line-start="57" data-line-end="58"><a href="https://res.cloudinary.com/damjgysop/image/upload/v1680040767/canvas/1_rgt5wn.png"><img src="https://res.cloudinary.com/damjgysop/image/upload/v1680040767/canvas/1_rgt5wn.png" alt="Wayfinding1"></a></p>
-<p class="has-line-data" data-line-start="59" data-line-end="60"><a href="https://res.cloudinary.com/damjgysop/image/upload/v1680040767/canvas/1_rgt5wn.png"><img src="https://res.cloudinary.com/damjgysop/image/upload/v1680040767/canvas/1_rgt5wn.png" alt="Wayfinding1"></a></p>
-<p class="has-line-data" data-line-start="61" data-line-end="62"><a href="https://res.cloudinary.com/damjgysop/image/upload/v1680040770/canvas/1-2_bdmlff.png"><img src="https://res.cloudinary.com/damjgysop/image/upload/v1680040770/canvas/1-2_bdmlff.png" alt="Wayfinding2"></a></p>
-<p class="has-line-data" data-line-start="63" data-line-end="64"><a href="https://res.cloudinary.com/damjgysop/image/upload/v1680040774/canvas/1-5_alpzqu.png"><img src="https://res.cloudinary.com/damjgysop/image/upload/v1680040774/canvas/1-5_alpzqu.png" alt="Wayfinding2"></a></p>
-<h2 class="code-line" data-line-start=64 data-line-end=65 ><a id="License_64"></a>License</h2>
-<p class="has-line-data" data-line-start="65" data-line-end="66">MIT</p>
-<p class="has-line-data" data-line-start="67" data-line-end="68"><strong>Free Software, Hell Yeah!</strong></p>
+<p class="has-line-data" data-line-start="55" data-line-end="56">MIT</p>
+<p class="has-line-data" data-line-start="57" data-line-end="58"><strong>Free Software, Hell Yeah!</strong></p>
