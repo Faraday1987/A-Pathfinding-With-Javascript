@@ -11,7 +11,7 @@ const imgWidth = 275;
 const imgHeight = 219;
 let jsonData;
 let jsonfile = new XMLHttpRequest();
-jsonfile.open("GET", "./grid.json", false);
+jsonfile.open("GET", "/grid.json", false);
 jsonfile.send();
 // retrieve the loaded JSON data and parse it into JavaScript objects
 jsonData = JSON.parse(jsonfile.responseText);
@@ -20,7 +20,7 @@ window.addEventListener('load', () => {
     sprite.onload = function () {
         ctx.drawImage(sprite, 0, 0, imgWidth, imgHeight);
     }
-    sprite.src = '/grid.png';
+    sprite.src = './grid.png';
 })
 
 button.addEventListener('click', (e) => {
